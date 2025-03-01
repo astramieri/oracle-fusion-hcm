@@ -10,3 +10,7 @@ Note-taking repository for Oracle Fusion Cloud Applications Foundation HCM cours
 ## Oracle Modern Best Practices (OMBP)
 
 - [Oracle Modern Best Practices](./docs/ombp.md)
+
+## HCM Foundations
+
+- [Talent Management](./docs/talent_management.md)
