@@ -1,4 +1,4 @@
-# Oracle Cloud Applications Introduction
+# Oracle Cloud Applications
 
 Oracle offers a complete application portfolio for the modern digital business that runs on the next generation Oracle Cloud infrastructure platform.
 
