@@ -5,7 +5,7 @@ Note-taking repository for Oracle Fusion Cloud Applications Foundation HCM cours
 ## Oracle Cloud Applications
 
 - [Cloud Applications](./docs/cloud_apps.md)
-- [Redwood and AI](./docs/redwood_ai.md)
+- [Fusion HCM](./docs/fusion_hcm.md)
 
 ## Oracle Modern Best Practices (OMBP)
 
